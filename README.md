@@ -123,6 +123,6 @@ Vá para o dashboard e gere uma nova API Key
 Copie a chave e cole no arquivo .env
 ```
 
-📸 Visite
+## 📸 Visite
 
 https://app-tempo-react.vercel.app/
